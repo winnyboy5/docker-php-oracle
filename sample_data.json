@@ -1,0 +1,67 @@
+{
+  "Entities": [
+    {
+      "id": 1,
+      "provider": "Sky",
+      "genre": "Entertainment",
+      "channels": [
+        {
+          "name": "Sky One",
+          "epg": [
+            "101",
+            "801"
+          ]
+        },
+        {
+          "name": "Sky Two",
+          "epg": [
+            "102",
+            "802"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "provider": "Sky",
+      "genre": "Cinema",
+      "channels": [
+        {
+          "name": "Sky Cinema One",
+          "epg": [
+            "301",
+            "831"
+          ]
+        },
+        {
+          "name": "Sky Cinema Two",
+          "epg": [
+            "302",
+            "832"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "provider": "BBC",
+      "genre": "Entertainment",
+      "channels": [
+        {
+          "name": "BBC One",
+          "epg": [
+            "201",
+            "821"
+          ]
+        },
+        {
+          "name": "BBC Two",
+          "epg": [
+            "202",
+            "822"
+          ]
+        }
+      ]
+    }
+  ]
+}
